@@ -3,6 +3,11 @@
  I'm a tech enthusiast passionate about building practical solutions with **Machine Learning**, **Data Science**, and **AI**.
  I'm also curious and adept at developing software using C++ and JAVA.
  I love turning data into insights and ideas into apps.
+ 
+This is my secondary account and is majorily used for university or research purpose.
+### Primary GitHub Account
+This is my Primary Account.
+[![GitHub](https://img.shields.io/badge/GitHub-FrankV17-181717?style=for-the-badge&logo=github)](https://github.com/R0NY17)
 
 ---
 
